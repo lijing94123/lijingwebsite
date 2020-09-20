@@ -1,0 +1,48 @@
+title = "LI Jing"
+baseURL = "https://lijing.com/"
+theme = "hugo-resume"
+languageCode = "en-us"
+PygmentsCodeFences = true
+PygmentsCodeFencesGuessSyntax = true
+PygmentsStyle = "monokai"
+enableGitInfo = false
+
+[params]
+address = "North Point, HK"
+email = "lijingtsinghua11@gmail.com"
+favicon = "/favicon.ico"
+firstName = "Jing"
+lastName = "Li"
+phone = "(852)67061917"
+profileImage = "lijing.jpg"
+showEducation = true
+showExperience = true
+showOpenSource = false
+showProjects = true
+showPublications = true
+showQr = false
+showSkills = false
+
+
+[params.google]
+
+[params.google.analytics]
+trackerID = "XX-123446-01"
+
+[[params.handles]]
+link = "https://www.linkedin.com/in/%E5%A9%A7-%E6%9D%8E-824226b8/"
+name = "LinkedIn"
+
+[[params.handles]]
+link = "https://github.com/lijing94123"
+name = "GitHub"
+
+[[params.handles]]
+link = "https://scholar.google.com/citations?hl=en&user=Fb0ysAcAAAAJ&view_op=list_works&gmla=AJsN-F4YzsFh8JhCJi1Stj9ZySAig2tGQQPrkRxMdHHCq4Fb6CqogW3EDpy2HLUzuHHeuDFiva1siuAnScdlGYtVYsg-Lau5Rw"
+name = "GoogleScholar"
+
+[outputs]
+home = ["HTML", "JSON"]
+
+[taxonomies]
+tag = "tags"
