@@ -1,5 +1,5 @@
 title = "LI Jing"
-baseURL = ""
+baseURL = "https://lijing.com/"
 theme = "hugo-resume"
 languageCode = "en-us"
 PygmentsCodeFences = true
@@ -21,7 +21,7 @@ showOpenSource = false
 showProjects = true
 showPublications = true
 showQr = false
-showSkills = false
+showSkills = true
 
 
 [params.google]

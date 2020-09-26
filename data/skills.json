@@ -1,0 +1,18 @@
+[
+  {
+      "grouping":"Computer skills",
+      "skills":[ "Microsoft Office (Word, Excel, PowerPoint)"]
+  },
+  {
+      "grouping":"Design and modeling",
+      "skills":[ "Creo", "Solidworks", "AutoCAD"]
+  },
+  {
+      "grouping":"Analysis and control",
+      "skills":[ "MATLAB", "SIMULINK"]
+  },
+  {
+      "grouping":"Languages, Operating Systems & Tools",
+      "skills":[ "C","C++","ROS","linux","Arduino"]
+  }
+]

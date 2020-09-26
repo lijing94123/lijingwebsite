@@ -1,0 +1,20 @@
+[
+    {
+        "school":"The University of Hong Kong",
+        "degree":"Doctor of Philosophy",
+        "major":"Mechanical Engineering",
+        "range":"2018 - 2021"
+    },
+    {
+        "school":"University of Science and Technology",
+        "degree":"Master of Philosophy",
+        "major":"Physics",
+        "range":"2015 - 2017"
+    },
+    {
+        "school":"Tsinghua University",
+        "degree":"Bachelor of Engineering",
+        "major":"Measurement, Control Technology and Instruments",
+        "range":"2011 - 2015"
+    }
+]

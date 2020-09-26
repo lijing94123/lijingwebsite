@@ -4,7 +4,7 @@ date: 2020-07-08
 pubtype: "Article"
 featured: true
 description: "This paper proposed a robotic system for assisting dental drilling procedures using soft bracing technique."
-tags: ["Dental","Robot","Impedance control"]
+tags: ["Solidworks", "MATLAB", "SIMULINK"]
 image: "IROS2020DentalRobot.png"
 link: "https://ieeexplore.ieee.org/document/9134878"
 fact: "Interesting little tidbit shown below image on summary and detail page"

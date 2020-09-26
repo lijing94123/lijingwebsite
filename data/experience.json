@@ -1,0 +1,14 @@
+[
+    {
+        "role":"Research Intern",
+        "company":"RoboticsX Lab of Tencent",
+        "summary":"Worked on performing daily tasks by teleoperating robots. \n- Realized haptic guidance in opening door task via semi-autonomous teleoperation by UR10.\n- Realized ‘clutch’ function in teleoperation and validated the algorithm via performing pick and place task by UR10\n- Assisted in realizing teleoperation with real-time haptic feedback by UR10",
+        "range":"October 2019 - January 2020"
+    },
+    {
+        "role":"Research Assistant",
+        "company":"Bionics and Control Lab of HKU",
+        "summary":"Lead the dental robotic system project. \n- Designed and fabricated cable-driven manipulators with 4 DOF and 6 DOF for dental application. \n- Simulated and analyzed kinematics of the manipulators by MATLAB. \n- Actuated and controlled the manipulator by C++ programming based on brushless motors. \n- Teleoperation realized by a haptic device.",   
+        "range":"September 2017 - August 2018"
+    }    
+]

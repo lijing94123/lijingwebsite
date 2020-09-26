@@ -4,7 +4,7 @@ date: 2019-02-08
 pubtype: "Article"
 featured: true
 description: "This paper proposed a robotic system for assisting dental drilling procedures using soft bracing technique."
-tags: ["Dental","Robot","Soft"]
+tags: ["Solidworks", "MATLAB", "C++"]
 image: "ICRA2019DentalRobot.png"
 link: "https://ieeexplore.ieee.org/abstract/document/8624272"
 fact: "Interesting little tidbit shown below image on summary and detail page"
