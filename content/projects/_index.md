@@ -1,13 +1,13 @@
 ---
 title: "Projects"
+date: 2018-01-01
+featured: true
+description: "Text used in summary on main page"
+tags: ["techtags","used","in","website"]
+image: ""
+link: "URL linked from project details page"
+fact: "Interesting little tidbit shown below image on summary and detail page"
+weight: 500
 sitemap:
-  priority : 0.9
+  priority : 0.8
 ---
-<!--
-
-This page represents the landing page for "projects" section. It is also shown under the homepage header for "projects". It should be therefore relatively short and sweet.
-
-IN the dfault theme, "projects" is divided among "Creations" you authored and "contributions" made to others projects.
-
--->
-

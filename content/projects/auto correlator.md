@@ -1,10 +1,10 @@
 ---
-title: "Development of a soft robotic manipulator for industrial manufacture"
-date: 2020-04-30
+title: "Setup of an auto-correlator for pulse width measurement of a femto-second laser"
+date: 2013-03-01
 featured: true
 description: "project description."
-tags: ["Linux", "ROS", "C++"]
-image: "soft arm.jpg"
+tags: ["Solidworks", "MATLAB"]
+image: "auto correlator.jpg"
 link: ""
 fact: "Interesting little tidbit shown below image on summary and detail page"
 weight: 400

@@ -1,10 +1,10 @@
 ---
-title: "Development of a soft robotic manipulator for industrial manufacture"
-date: 2020-04-30
+title: "Setup of a magnetic tweezers for mechanics measurement of breast cancer cells"
+date: 2018-09-01
 featured: true
 description: "project description."
-tags: ["Linux", "ROS", "C++"]
-image: "soft arm.jpg"
+tags: ["Solidworks", "MATLAB", "LabVIEW"]
+image: "magnetic tweezer.jpg"
 link: ""
 fact: "Interesting little tidbit shown below image on summary and detail page"
 weight: 400
