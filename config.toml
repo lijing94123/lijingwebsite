@@ -1,5 +1,5 @@
 title = "LI Jing"
-baseURL = "http://lijing.netlify.app"
+baseURL = "https://lijing.netlify.app/"
 theme = "hugo-resume"
 languageCode = "en-us"
 PygmentsCodeFences = true
