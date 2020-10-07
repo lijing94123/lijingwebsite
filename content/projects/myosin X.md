@@ -2,7 +2,7 @@
 title: "Measurements of Myosin X stepsize by single-molecule tracking method"
 date: 2015-08-01
 featured: true
-description: "project description."
+description: "This project is to measure Myosin X stepsize by single-molecule tracking method."
 tags: ["MATLAB", "IDL"]
 image: "myosin X.jpg"
 link: ""

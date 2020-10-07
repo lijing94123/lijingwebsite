@@ -1,8 +1,8 @@
 ---
 title: "Setup of a magnetic tweezers for mechanics measurement of breast cancer cells"
-date: 2018-09-01
+date: 2016-09-01
 featured: true
-description: "project description."
+description: "This project is to set up a magnetic tweezers for measuring single cell mechanics."
 tags: ["Solidworks", "MATLAB", "LabVIEW"]
 image: "magnetic tweezer.jpg"
 link: ""
